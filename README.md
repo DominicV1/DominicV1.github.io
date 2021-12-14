@@ -42,6 +42,7 @@
 
 I'm Dominic V. I am a student at the Bit-Academy in the Netherlands. This project is a simple site made by me using php and tailwindcss. 
 This website is just a clean website where you can check my progress once in a while.
+(this is a simple version of https://github.com/DominicV1/portfolio-hard).
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Installation
